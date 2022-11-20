@@ -1,0 +1,23 @@
+{
+  "name": "basic-website-template-node",
+  "version": "1.0.0",
+  "description": "# Let's get started!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amyhua/basic-website-template-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amyhua/basic-website-template-node/issues"
+  },
+  "homepage": "https://github.com/amyhua/basic-website-template-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
